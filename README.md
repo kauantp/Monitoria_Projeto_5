@@ -1,6 +1,6 @@
 # Monitoria_Projeto_5
 
-Neste projeto os alunos irão continuar o que foi desenvolvido no projeto 3, portanto a entrega deve ser feita pelo mesmo repositório, apenas com o cadastro de novas issues, commits e merges.
+Neste projeto os alunos irão continuar o que foi desenvolvido no [projeto 3](https://github.com/kauantp/Monitoria_Projeto_3), portanto a entrega deve ser feita pelo mesmo repositório, apenas com o cadastro de novas issues, commits e merges.
 
 **Para os projetos que tiveram problemas com a entrega do projeto 3, façam a correção dos problemas encontrados em uma branch ANTES do início do projeto 5. Essas correções serão usadas para rever as notas do projeto 3.**
 
